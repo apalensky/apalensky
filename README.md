@@ -1,6 +1,6 @@
 # Hello! Welcome to Alexander Palensky's GitHub Profile
 
-## I am in the final semester of a Master of Science in Business Analytics program and spent the fall consulting for an agricultural cooperative and completing baseball analytics research with my university's baseball team.
+## I am a recent graduate of the University of Iowa with a Master of Science in Business Analytics. I spent my last year of school gaining practical experience through consulting (virtually) for an agricultural cooperative in Cameroon and as a Data Analyst with my university's NCAA baseball team. I am now a consultant for a professional services firm.
 
 <a href="https://www.linkedin.com/in/alexanderpalensky/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@apalensky"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/apalensky"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/AlPalensky"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>
 
